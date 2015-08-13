@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        Log.println(Log.ASSERT,"Simple app","Hello my friends!");
+        Log.println(Log.ASSERT,"Simple app","Hello2 my friends!");
 
 
 
